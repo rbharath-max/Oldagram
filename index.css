@@ -1,0 +1,100 @@
+html, body {
+    margin: 0 auto;
+    padding: 0;
+    width: 380px;
+    font: 12px "Source Sans Pro", sans-serif;
+    
+}
+
+
+/* header info */
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.per {
+    width: 70px;
+    border-radius: 50%;
+    
+}
+header img {
+    width: 150px;
+   
+}
+
+.header {
+     margin: 20px 0;
+    border: 3px solid black
+    
+    
+}
+
+/* section info */
+section h1 {
+    width: 700px;
+ font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 16px;
+color: #000000;
+margin-bottom: 0;
+margin-left: 10px;
+    
+}
+.avatar {
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+}
+section p {
+    margin-top: 0;
+    margin-left: 10px;
+    
+    
+}
+.profile {
+    display: flex;
+    align-items: center;
+}
+.post {
+    width: 375px;
+    height: 375px;
+}
+/* icons */
+
+.icon-all img {
+    width: 26px;
+    
+    
+}
+.itwo{
+    margin-left: 8px;
+    
+}
+.ithree{
+    margin-left: 8px;
+}
+.icon-all button {
+    display: inline-block;
+    margin-bottom: 5px;
+    border: none;
+    background: transparent;
+    
+}
+.icon-all button:hover {
+    opacity: 0.5;
+}
+.likes {
+   
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+
+}
+.p3 {
+    font-weight: lighter;
+    margin-left: 3px;
+}
